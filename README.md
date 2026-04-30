@@ -1,17 +1,47 @@
 # Getting Started with the React Breadcrumb Component
 
-A quick start React project that shows how to add React Breadcrumb component to the React App. This project also includes a code snippet to customize the Breadcrumb item separator, enable navigation to the last item, set overflow modes, and set relative and absolute URLs to the Breadcrumb component.
+**Repository Description**  
+This repository contains a quick‑start React sample that demonstrates how to integrate and customize the Syncfusion React Breadcrumb component in a React application.
 
-Example: https://ej2.syncfusion.com/react/demos/#/bootstrap5/breadcrumb/default 
+A quick start React project that shows how to add the React Breadcrumb component to a React app. This project also includes code snippets to customize the breadcrumb item separator, enable navigation to the last item, configure overflow modes, and set both relative and absolute URLs for breadcrumb navigation.
 
-Documentation: https://ej2.syncfusion.com/react/documentation/breadcrumb/getting-started/ 
+## Project Overview
+The purpose of this project is to help developers get started with the Syncfusion React Breadcrumb component. It demonstrates commonly used configuration options that improve navigation clarity and user experience in React applications.
 
-## Project prerequisites
+## Features
+- Integration of Syncfusion React Breadcrumb component  
+- Custom breadcrumb item separators  
+- Navigation support for last breadcrumb item  
+- Overflow mode configuration  
+- Support for relative and absolute URLs  
 
-Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
+## Prerequisites
+- Node.js (latest version recommended)  
+- Visual Studio Code  
 
+## Installation and Running the Application
+1. Clone the repository.
+```bash
+git clone https://github.com/SyncfusionExamples/getting-started-with-the-react-breadcrumb-component.git
+```
+2. Open the project folder in Visual Studio Code.
+3. Install all required dependencies using: `npm install`.
+4. Run the application using:`npm start`.
+5. Open your browser and navigate to the URL displayed in the terminal `http://localhost:3000`.
 
-### How to run this application?
+## Documentation
+- General Syncfusion documentation:<br>https://help.syncfusion.com/
+- React Introduction:<br>https://ej2.syncfusion.com/react/documentation/introduction
+- React Breadcrumb Getting Started:<br>https://ej2.syncfusion.com/react/documentation/breadcrumb/getting-started
 
-To run this application, you need to clone the getting-started-with-the-react-breadcrumb-component repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using the `npm install` command and run your project using the `npm start` command.
+## Examples
+- Online demo:<br>https://ej2.syncfusion.com/react/demos/#/bootstrap5/breadcrumb/default
 
+## Troubleshooting
+- Ensure Node.js and npm are installed correctly.
+- Run npm install if dependency issues occur.
+- Restart the development server if changes are not reflected.
+- Check the browser console for runtime errors.
+
+## Support
+For detailed API references and configuration guidance, refer to the Syncfusion documentation links provided above.
