@@ -1,6 +1,5 @@
 # Getting Started with the React Breadcrumb Component
 
-**Repository Description**  
 This repository contains a quick‑start React sample that demonstrates how to integrate and customize the Syncfusion React Breadcrumb component in a React application.
 
 A quick start React project that shows how to add the React Breadcrumb component to a React app. This project also includes code snippets to customize the breadcrumb item separator, enable navigation to the last item, configure overflow modes, and set both relative and absolute URLs for breadcrumb navigation.
